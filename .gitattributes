@@ -1,0 +1,9 @@
+*.swift linguist-language=Swift
+*.h linguist-language=Swift
+*.m linguist-language=Swift
+*.storyboard linguist-language=Swift
+*.xib linguist-language=Swift
+*.xcdatamodeld linguist-language=Swift
+*.xcworkspace linguist-language=Swift
+*.xcodeproj linguist-language=Swift
+JGProgressHUD-master/* linguist-vendored
